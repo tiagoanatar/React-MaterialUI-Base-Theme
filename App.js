@@ -1,6 +1,9 @@
 //import logo from './logo.svg'
 //import './App.css'
 import { useState, useEffect } from 'react' // useEffect - will load task on page load - is used to load data from API/Jason
+//import Header from './components/Header'
+//import Tasks from './components/Tasks'
+//import AddTask from './components/AddTask'
 import Dashboard from './components-material/Dashboard'
 
 const App = () => {
